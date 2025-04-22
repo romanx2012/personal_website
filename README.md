@@ -10,6 +10,8 @@ Files in this Project
 - portfolio.html — Some pretend projects
 - style.css — Makes the site look nice
 - javascript.js — A small Hello World script
+- contact.css - Makes contact look nice
+- contact.html - Gives way to contact
 
 What I Used
 
