@@ -1,4 +1,4 @@
-/* Base Reset */
+/* Styling my header and font */
 * {
     margin: 0;
     padding: 0;
@@ -20,7 +20,7 @@
     margin-bottom: 1rem;
   }
   
-  /* Contact Container */
+  /* Created Container Here */
   .contact-container {
     max-width: 500px;
     margin: auto;
@@ -31,7 +31,7 @@
     animation: fadeIn 1s ease-in-out;
   }
   
-  /* Form */
+  /* Form Here */
   form {
     display: flex;
     flex-direction: column;
@@ -56,7 +56,7 @@
     transition: background-color 0.3s;
   }
   
-  /* Focus Glow & Sparkles */
+  /* Focus Glow, and Added Sparkles  */
   input:focus,
   textarea:focus {
     outline: none;
@@ -81,7 +81,7 @@
     z-index: -1;
   }
   
-  /* Button */
+  /* CUstomizing My Button */
   button {
     background-color: #0070f3;
     color: white;
@@ -156,7 +156,7 @@
     }
   }
   
-  /* Responsive */
+  /* Respons */
   @media (max-width: 600px) {
     .contact-container {
       padding: 1rem;

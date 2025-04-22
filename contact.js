@@ -5,6 +5,8 @@ document.getElementById("contact-form").addEventListener("submit", function (e) 
 
 });
 
+// added sparkle trail to cursor
+
 document.addEventListener("mousemove", function (e) {
     const sparkle = document.createElement("div");
     sparkle.className = "sparkle-trail";
